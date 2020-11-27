@@ -1,4 +1,4 @@
-#Wed Nov 25 21:16:22 BRT 2020
-base.0=/home/leonardo/Área de Trabalho/flutter-projeto/appcontador/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Fri Nov 27 17:26:36 BRT 2020
+base.0=/home/leonardo/Área de Trabalho/appcontador/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
