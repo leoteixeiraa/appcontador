@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'appCONTADOR',
+      title: 'appsupermercado',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.green,
@@ -96,7 +96,7 @@ class _HomePageState extends State<HomePage> {
             fontSize: 18,
           ),
           decoration: InputDecoration(
-            labelText: "Nova Tarefa",
+            labelText: "Novo Item do Mercado",
             labelStyle: TextStyle(color: Colors.white),
           ),
         ),
@@ -131,7 +131,7 @@ class _HomePageState extends State<HomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: add,
-        child: Icon(Icons.add),
+        child: Icon(Icons.playlist_add),
         backgroundColor: Colors.red,
       ),
     );

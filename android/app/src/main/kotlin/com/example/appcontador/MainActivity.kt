@@ -1,4 +1,4 @@
-package com.example.appcontador
+package com.example.appsupermercado
 
 import io.flutter.embedding.android.FlutterActivity
 

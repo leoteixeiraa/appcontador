@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/leonardo/Área de Trabalho/appcontador/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/leonardo/Área de Trabalho/appsupermercado/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/leonardo/Área de Trabalho/appcontador/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/leonardo/Área de Trabalho/appsupermercado/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

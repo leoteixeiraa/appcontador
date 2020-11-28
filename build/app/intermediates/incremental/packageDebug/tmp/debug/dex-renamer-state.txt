@@ -1,4 +1,4 @@
-#Fri Nov 27 21:57:56 BRT 2020
-base.0=/home/leonardo/Área de Trabalho/appcontador/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Fri Nov 27 23:18:22 BRT 2020
+base.0=/home/leonardo/Área de Trabalho/appsupermercado/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

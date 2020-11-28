@@ -1,4 +1,4 @@
-com.example.appcontador
+com.example.appsupermercado
 attr alpha
 attr font
 attr fontProviderAuthority

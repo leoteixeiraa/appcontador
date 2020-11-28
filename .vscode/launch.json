@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "appcontador",
+            "name": "appsupermercado",
             "request": "launch",
             "type": "dart"
         }
